@@ -1,4 +1,5 @@
- 
+
+/* Setting up the look of form element with background image */
 .form{
     background-image:url(img/2755.jpg);
     height: 350px;
@@ -9,6 +10,7 @@
     position: relative;
 }
 
+/* Setting up the look of button */
 .submitbtn{
     border: 1px solid black;
     width: 20%;
