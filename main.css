@@ -1,0 +1,33 @@
+ 
+.form{
+    background-image:url(img/2755.jpg);
+    height: 350px;
+    width: 50%;
+    margin: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+}
+
+.submitbtn{
+    border: 1px solid black;
+    width: 20%;
+    height: 30px;
+    position: absolute;
+    right: 70px;
+}
+.signup{
+    margin: 5px;
+    width: 50%;
+    position: relative;
+}
+ 
+.submitbtn{
+    border: 1px solid black;
+    width: 20%;
+    height: 30px;
+    position: absolute;
+    right: 70px;
+}
+ 
+ 
